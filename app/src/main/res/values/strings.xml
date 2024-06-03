@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="social_login">social Login</string>
+    <string name="login">Login</string>
+</resources>
